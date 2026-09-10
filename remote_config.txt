@@ -14,6 +14,7 @@ countdown=false, custom_events=false, stats=false, daily_briefing=false
 false
 
 [NOTICE]
+Testing 123, MK Master Date se salam!
 
 [HELP_TEXT]
 
